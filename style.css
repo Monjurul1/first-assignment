@@ -1,0 +1,172 @@
+body{
+    margin: 0px;
+    font-family:'Poppins', sans-serif;
+    
+}
+.large-container{
+    width: 80%;
+    margin: 0 auto
+}
+.divider{
+    display: flex;
+}
+.first-side{
+    width: 50%;
+}
+.for-mission{
+    margin-top: 150px;
+}
+.for-mission h1{
+    font-size: 40px;
+    margin: 0px;
+    color: #5f27cd;
+    font-family:'Poppins', sans-serif;
+    border-left: 5px solid tomato;
+    line-height: 40px;
+    padding: 5px;
+}
+.first-side img{
+    width: 80%;
+}
+.yellow{
+    color: #f368e0;
+}
+
+.button{
+    padding: 10px 50px;
+    color: white;
+    font-weight: 800px;
+    background-image: linear-gradient(tomato,rgb(245, 82, 177));
+    text-decoration: none;
+    border-radius: 5px;
+}
+.scroll-down{
+    margin-top: 50px;
+}
+
+<!-----this is start of second section ---------->
+
+
+
+.illustator-images{
+    padding: 50px;
+}
+.illustator-images img{
+    width: 33.33%;
+    text-align: center;
+
+}
+.first-illustator{
+    background-color: #dcdde1;
+    border-radius: 10px;
+    margin: 20px;
+    padding-left: 30px;
+    padding: 20px 0px 0px 30px;
+
+
+}
+.second-illustator{
+    background-color:#f5dca4;
+    border-radius: 10px;
+    margin: 20px;
+    padding-left: 30px;
+    padding: 20px 0px 0px 30px;
+
+
+}
+.third-illustator{
+    background-color: #d1ccc0;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px 0px 0px 30px;
+
+}
+.center-text{
+    text-align: center;
+    font-family: tahoma;
+    font-size: 50px;
+    
+}
+.illustator-images h1{
+    color: #e84118;
+}
+
+
+<!------start of final tow section here------->
+
+
+
+
+
+
+
+.final-section{
+    margin-top: 100px;
+}
+.last-part img{
+    width: 80%;
+}
+.last-part{
+    width:40%;
+    margin-top: 100px;
+}
+.before-last-part{
+    width: 60%;
+    margin-top: 100px;
+}
+.before-last-part p{
+    width: 80%;
+    text-align: justify;
+}
+.final-section h1{
+    margin: 8px;
+}
+
+
+<!----all images---------->
+
+
+.all-images{
+    text-align: center;
+}
+.all-images img{
+    width: 28%;
+    text-align: center;
+    padding: 10px;
+}
+.collection{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 25px;
+    color: purple;
+}
+.last-group-image{
+    margin-bottom: 100px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+.footer h1{
+    padding-top: 30px;
+    font-family:italic;
+    font-weight: 1200px;
+    margin: 0px;
+    
+}
+.footer p{
+    padding-bottom: 20px;
+    margin: 0px;
+    
+
+}
+#mission{
+    color: red;
+
+}
+#year{
+    color: yellow;
+}
